@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22345933638",
+    "project_id": "mobtech-320ae",
+    "storage_bucket": "mobtech-320ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22345933638:android:7a38111bcffc3c3b6efb47",
+        "android_client_info": {
+          "package_name": "com.abuzead.mobtech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22345933638-8fr70ieti2cl57jv94dvpdl8l5dvbg6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtm_dDO1LjpcNsvjON3xKUiUhia9zeTJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22345933638-8fr70ieti2cl57jv94dvpdl8l5dvbg6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
